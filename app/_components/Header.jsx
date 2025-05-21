@@ -264,7 +264,7 @@ function Header() {
 
         {/* Book Now */}
         <div className="text-xs text-[#ffef7d] flex flex-col items-end">
-          <span className="mb-1">Book your holiday{domain}</span>
+          <span className="mb-1">Book your holiday</span>
           <button className="bg-[#ffef7d] text-[#4b7e37] text-sm px-2 py-1 rounded">
             Click Here
           </button>

@@ -4,7 +4,7 @@ import React from 'react'
 
 function HomeComponent() {
     const domain = process.env.NEXT_PUBLIC_FRONT_DOMAIN;
-    const imageUrl = domain+"/images/banner.png";
+    const imageUrl = domain+"/images/banner.PNG";
   return (
 
        <div
